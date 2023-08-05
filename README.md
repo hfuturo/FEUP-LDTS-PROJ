@@ -1,4 +1,5 @@
-<h1>Trabalho de Laboratório de Desenho e Teste de Software (Software Design and Testing Laboratory)</h1>
+<h1>Projeto de Laboratório de Desenho e Teste de Software (Software Design and Testing Laboratory)</h1>
+<h2>Grade: 18.5</h2>
 
 # LDTS_1604 - Xelda
 
